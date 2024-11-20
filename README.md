@@ -1,1 +1,1 @@
-# spok-homepage
+# SPoK Homepage
